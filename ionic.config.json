@@ -1,0 +1,8 @@
+{
+  "name": "POC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "d5d46531"
+}
